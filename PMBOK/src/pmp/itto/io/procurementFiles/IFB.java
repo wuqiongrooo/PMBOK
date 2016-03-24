@@ -1,0 +1,11 @@
+package pmp.itto.io.procurementFiles;
+
+/**
+ * Õ∂±Í—˚«Î È
+ * 
+ * @author wuqiong
+ *
+ */
+public class IFB extends Procurement {
+
+}

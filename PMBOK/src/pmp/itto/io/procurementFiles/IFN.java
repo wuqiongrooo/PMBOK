@@ -1,0 +1,11 @@
+package pmp.itto.io.procurementFiles;
+
+/**
+ * Ã∏≈–—˚«Î È
+ * 
+ * @author wuqiong
+ *
+ */
+public class IFN extends Procurement {
+
+}
