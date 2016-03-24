@@ -1,0 +1,11 @@
+package pmp.itto.io.procurementFiles;
+
+/**
+ * –≈œ¢—˚«Î È
+ * 
+ * @author wuqiong
+ *
+ */
+public class RFI extends Procurement {
+
+}

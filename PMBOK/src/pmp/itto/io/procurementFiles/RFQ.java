@@ -1,0 +1,11 @@
+package pmp.itto.io.procurementFiles;
+
+/**
+ * ±®º€—˚«Î È
+ * 
+ * @author wuqiong
+ *
+ */
+public class RFQ extends Procurement {
+
+}
